@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 4,
+      "username": "aduriz",
+      "email": "aritz.aduriz@belbao.com",
+      "name": "Aduriz"
+    },
+    {
+      "id": "9",
+      "name": "Bader",
+      "username": "Béchir",
+      "email": "béchir.bader@gmail.com"
+    },
+    {
+      "id": "10",
+      "name": "Hamrouni",
+      "username": "Radhia",
+      "email": "radhia.hamrouni@biglove.com"
+    }
+  ]
+}
